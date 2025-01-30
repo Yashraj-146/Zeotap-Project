@@ -83,7 +83,7 @@ dataset.
 • **Davies-Bouldin (DB) Index:** Measures cluster compactness and separation (lower values indicate better
 clustering).
 • **Silhouette Score:** Measures how similar an object is to its own cluster compared to other clusters.
-•** Inertia (for K-Means):** Measures within-cluster sum of squared distances.
+• **Inertia (for K-Means):** Measures within-cluster sum of squared distances.
 
 ## Results
 
